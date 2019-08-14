@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Github\GraphNode\GraphNode\obj\Debug\netcoreapp2.0\GraphNode.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Github\GraphNode\GraphNode\obj\Debug\netcoreapp2.0\GraphNode.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Github\GraphNode\GraphNode\obj\Debug\netcoreapp2.0\GraphNode.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Github\GraphNode\GraphNode\obj\Debug\netcoreapp2.0\GraphNode.AssemblyInfo.cs
+C:\Users\PC\Desktop\Github\GraphNode\GraphNode\bin\Debug\netcoreapp2.0\GraphNode.deps.json
+C:\Users\PC\Desktop\Github\GraphNode\GraphNode\bin\Debug\netcoreapp2.0\GraphNode.runtimeconfig.json
+C:\Users\PC\Desktop\Github\GraphNode\GraphNode\bin\Debug\netcoreapp2.0\GraphNode.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Github\GraphNode\GraphNode\bin\Debug\netcoreapp2.0\GraphNode.dll
+C:\Users\PC\Desktop\Github\GraphNode\GraphNode\bin\Debug\netcoreapp2.0\GraphNode.pdb
+C:\Users\PC\Desktop\Github\GraphNode\GraphNode\obj\Debug\netcoreapp2.0\GraphNode.dll
+C:\Users\PC\Desktop\Github\GraphNode\GraphNode\obj\Debug\netcoreapp2.0\GraphNode.pdb
